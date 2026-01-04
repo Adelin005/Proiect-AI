@@ -1,3 +1,4 @@
+!!! IMPORTANT - "Folderul sentiment_model_finetuned nu este complet pe GitHub din cauza limitărilor de mărime. Modelul trebuie generat local prin rularea scriptului train_model.py." !!!
 RULARE - python -m streamlit run app.py
 
 # ✈️ Airline Sentiment Analysis Dashboard
@@ -31,4 +32,5 @@ python train_model.py
 
 Pasul 2: Lansarea Dashboard-ului
 Pornește interfața grafică interactivă cu următoarea comandă:
+
 streamlit run app.py
